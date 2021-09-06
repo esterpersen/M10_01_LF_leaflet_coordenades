@@ -1,0 +1,16 @@
+html,
+body {
+  text-align: center;
+  background-color:steelblue;
+}
+
+#mapFase01 {
+  height: 300px;
+  width: 600px;
+}
+
+#mapFase02 {
+  height: 300px;
+  width: 600px;
+}
+
