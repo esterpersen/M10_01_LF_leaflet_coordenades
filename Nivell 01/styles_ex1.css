@@ -1,0 +1,20 @@
+html,
+body {
+  text-align: center;
+  background-color: #e9967a;
+}
+
+#mapFase01 {
+  height: 300px;
+  width: 600px;
+}
+
+#mapFase02 {
+  height: 300px;
+  width: 600px;
+}
+
+#mapFase03 {
+  height: 300px;
+  width: 600px;
+}
